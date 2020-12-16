@@ -5,7 +5,7 @@ public class Calculator {
         char option = '*';
 
         double result = 0;
-        
+
         switch(option){
             case '+':
                 result = a+b;
